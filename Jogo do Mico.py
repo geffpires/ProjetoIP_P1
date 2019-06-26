@@ -49,7 +49,7 @@ while Novamente: #Aqui controlo no final do jogo se o usuario quer jogar novamen
     #Variaveis que precisarei no jogo e criação do baralho
 
     aceitar = ["vou","sim", "yes", "y", "s", "não", "nao", "no", "not", "n","/surrender"]   #Unicos comandos que eu aceito como ordem do meu usuario
-    Animais = ["Cobra", "Elefante", "Girafa", "Hétero", "Morcego", "Sapo", "Pavão", "Peixe", "Taniby", "Unicórnio"]    #Nome dos Animais
+    Animais = ["Cobra", "Elefante", "Girafa", "Vastaya", "Morcego", "Sapo", "Rato", "Peixe", "Yordle", "Unicórnio"]    #Nome dos Animais
     BaralhoF = []               #Baralho Femea Vazio
     BaralhoM = []                #Baralho Macho Vazio
     Descartadas = []             #Baralho das cartas que serão descartadas durante o jogo
