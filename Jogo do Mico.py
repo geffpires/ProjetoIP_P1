@@ -1,4 +1,6 @@
+#Autor: Gefferson Pires
 #importando as bibliotecas
+
 import time
 import random
 import FuncoesJM
